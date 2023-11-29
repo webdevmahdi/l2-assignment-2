@@ -30,11 +30,11 @@ This project is a Node.js Express application developed with TypeScript, integra
     * Local Endpoint : PUT http://localhost:5000/api/users/:userId
     * Online Deployed: PUT https://l2assignment2-cyan.vercel.app/api/users/:userId
 
-*** Step 8(Delete a user) ***
-    {
+### Step 8(Delete a user)
+    
         * Local Endpoint : DELETE http://localhost:5000/api/users/:userId
         * Online Deployed: DELETE https://l2assignment2-cyan.vercel.app/api/users/:userId
-    }
+    
 
 *** Step 9(Start the app) ***
 * Run the application in your local server by running: "npm run start:dev" command
