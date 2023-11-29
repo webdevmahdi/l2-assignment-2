@@ -1,5 +1,5 @@
  ### Project Introduction 
-This project is a Node.js Express application developed with TypeScript, integrating MongoDB with Mongoose for user data management. Data integrity is ensured through validation using Joi.
+    This project is developed by using Express. Which is a library of Node.js. I used TypeScript, integrated MongoDB with Mongoose for user data management and Joi for user validation. Some other tools like cors, eslint and prettier for organize the codes, bcrypt to secure password, and dotenv tool for secure other stuff.
 
  ### To setup this project in your Local computer follow the below instruction 
 
@@ -32,12 +32,12 @@ This project is a Node.js Express application developed with TypeScript, integra
 
 ### Step 5(Delete a user)
     
-        * Local Endpoint : DELETE http://localhost:5000/api/users/:userId
-        * Online Deployed: DELETE https://l2assignment2-cyan.vercel.app/api/users/:userId
+    * Local Endpoint : DELETE http://localhost:5000/api/users/:userId
+    * Online Deployed: DELETE https://l2assignment2-cyan.vercel.app/api/users/:userId
     
 
  ### Step 6(Start the app) 
-* Run the application in your local server by running: "npm run start:dev" command
+    * Run the application in your local server by running: "npm run start:dev" command
 
  ### Step 7(Start the application) 
     * The app will run on http://localhost:5000
