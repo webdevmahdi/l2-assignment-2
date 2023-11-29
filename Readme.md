@@ -11,7 +11,8 @@
     * Setup mongodb database: 
         1:-) Create a file by the name of .env
         2:-) Provide your port (ex: PORT=5000)
-        3:-) Create a user in mongodb website and copy the database name and password and also copy the uri from mongodb (ex: DATABASE_URL=mongodb+srv://<username>:<databasePassword>@cluster0.gle9hc9.mongodb.net/<newDatabaseName>?retryWrites=true&w=majority)
+        3:-) Create a user in mongodb website and copy the database name and password and also copy the uri from mongodb 
+            * (ex: DATABASE_URL=mongodb+srv://<username>:<databasePassword>@cluster0.gle9hc9.mongodb.net/<newDatabaseName>?retryWrites=true&w=majority)
 
 ### API endpoints
  ### Step 1(Create a new user) 
