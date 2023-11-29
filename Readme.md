@@ -1,5 +1,5 @@
  ### Project Introduction 
-    This project is developed by using Express. Which is a library of Node.js. I used TypeScript, integrated MongoDB with Mongoose for user data management and Joi for user validation. Some other tools like cors, eslint and prettier for organize the codes, bcrypt to secure password, and dotenv tool for secure other stuff.
+This project is developed by using Express. Which is a library of Node.js. I used TypeScript, integrated MongoDB with Mongoose for user data management and Joi for user validation. Some other tools like cors, eslint and prettier for organize the codes, bcrypt to secure password, and dotenv tool for secure other stuff.
 
  ### To setup this project in your Local computer follow the below instruction 
 
